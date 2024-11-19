@@ -1,0 +1,11 @@
+48587ebd518b3c0ba505db1c89396b11 *DESCRIPTION
+112e4f45efc017989512086e5de8532a *LICENSE
+d2f1a6a0dac9fb90093819b786dc6f63 *NAMESPACE
+c1420932a3d5ccdfe7ca274fb80f4ebe *R/dmvvg.R
+e082c08176ccda0a5f29e5ca62e19dfe *R/example_matrix.R
+c5d9aef887a69e432a7ff3d0c3ad62a4 *R/rmvvg.R
+6b0bef93f7d88173b8d5554dc5e535e4 *data/example_matrix.RData
+449bd5e92b39c31e668c5feed15a0def *inst/CITATION
+dec821d2b077e59c938eea7ba37b5a6a *man/dmvvg.Rd
+6f978af6049b8e36fd3c664feb68a25b *man/example_matrix.Rd
+04475e232466ffa1f650bf2eb0d86051 *man/rmvvg.Rd

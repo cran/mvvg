@@ -1,0 +1,21 @@
+
+
+bibentry(
+bibtype = "Book",
+author="McNicholas, Sharon M.
+and McNicholas, Paul D.
+and Browne, Ryan P.",
+editor="Ahmed, S. Ejaz",
+title="A Mixture of Variance-Gamma Factor Analyzers",
+booktitle="Big and Complex Data Analysis: Methodologies and Applications    ",
+year="2017",
+publisher="Springer International Publishing",
+address="Cham",
+pages="369--385",
+abstract="The mixture of factor analyzers model is extended to variance-gamma mixtures to facilitate flexible clustering of high-dimensional data. The formation of the variance-gamma distribution utilized is a special and limiting case of the generalized hyperbolic distribution. Parameter estimation for these mixtures is carried out via an alternating expectation-conditional maximization algorithm, and relies on convenient expressions for expected values for the generalized inverse Gaussian distribution. The Bayesian information criterion is used to select the number of latent factors. The mixture of variance-gamma factor analyzers model is illustrated on a well-known breast cancer data set. Finally, the place of variance-gamma mixtures within the growing body of literature on non-Gaussian mixtures is considered.",
+isbn="978-3-319-41573-4",
+doi="10.1007/978-3-319-41573-4_18",
+url="https://doi.org/10.1007/978-3-319-41573-4_18"
+)
+
+
